@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Hafiz Ali Hasnain — Personal Portfolio
+# ✦ Hafiz Ali Hasnain — Personal Portfolio ✦
 
 **Creative Software Developer · UI Engineer · AI Enthusiast**
 
@@ -16,9 +16,9 @@
 
 ## Overview
 
-A high-performance, editorial portfolio built to reflect precision, creativity, and technical depth. This site goes beyond a simple showcase — it features **live code simulators**, **custom UI sandboxes**, and an **AI-powered experience layer** via the Gemini API, all wrapped in a modern typography-driven layout.
+A high-performance, editorial portfolio built to reflect precision, creativity, and technical depth. This site goes beyond a simple showcase, it features **live code simulators**, **custom UI sandboxes**, and an **AI-powered experience layer** via the Gemini API, all wrapped in a modern typography-driven layout.
 
-> Built from scratch with React 19, TypeScript, Tailwind CSS, and Vite — no templates, no shortcuts.
+> Built from scratch with React 19, TypeScript, Tailwind CSS, and Vite, no templates, no shortcuts.
 
 ---
 
@@ -30,13 +30,13 @@ A high-performance, editorial portfolio built to reflect precision, creativity, 
 
 ## Features
 
-- ⚡ **Blazing fast** — Vite-powered dev server with HMR and optimized production builds
-- 🧠 **AI-integrated** — Gemini API integration via server-side capability for intelligent interactions
-- 🎨 **Precision-styled** — Tailwind CSS v4 with utility-first design patterns and cross-browser autoprefixing
-- 🪄 **Fluid animations** — Motion (Framer Motion v12) for polished, production-grade transitions
-- 🧩 **Component architecture** — Fully typed, modular React components with strong TypeScript interfaces
-- 🌐 **Express-ready** — Optional Express server for API endpoints and server-side functionality
-- 🔒 **Environment-safe** — dotenv-based config management with `.env.example` for easy onboarding
+- ⚡ **Blazing fast** : Vite-powered dev server with HMR and optimized production builds
+- 🧠 **AI-integrated** : Gemini API integration via server-side capability for intelligent interactions
+- 🎨 **Precision-styled** : Tailwind CSS v4 with utility-first design patterns and cross-browser autoprefixing
+- 🪄 **Fluid animations** : Motion (Framer Motion v12) for polished, production-grade transitions
+- 🧩 **Component architecture** : Fully typed, modular React components with strong TypeScript interfaces
+- 🌐 **Express-ready** : Optional Express server for API endpoints and server-side functionality
+- 🔒 **Environment-safe** : dotenv-based config management with `.env.example` for easy onboarding
 
 ---
 
