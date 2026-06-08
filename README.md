@@ -143,7 +143,7 @@ For Vercel deployment, set the `GEMINI_API_KEY` environment variable in your pro
 Copy `.env.example` to `.env.local` and populate the following:
 
 ```env
-GEMINI_API_KEY=your_gemini_api_key_here
+GEMINI_API_KEY=""
 ```
 
 > **Never commit your `.env.local` file.** It is already included in `.gitignore`.
