@@ -103,36 +103,10 @@ Replace `--public` with `--private` if you prefer.
 3. Add any environment variables in Vercel dashboard (e.g., API keys), using the **Environment Variables** settings.
 4. Deploy — Vercel will build and publish your site. Future pushes to `main` will trigger automatic deploys.
 
-## Environment Variables
 
-- Never commit `.env` files. Use Vercel or GitHub repository secrets to store keys or tokens.
-
-## Contributing
-
-- PRs and issues welcome for improvements (styling, accessibility, content updates).
-
----
-
-If you want, I can also:
-
-- Create the Git repo locally and make the initial commit (done below).
-- Create the remote GitHub repo for you (if you authenticate `gh` or give remote URL).
-- Connect the repo to Vercel or generate a `vercel.json` if you prefer CLI-driven deploys.
-
-Tell me which of the above you'd like me to do next.
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/7a96b26e-5d00-4888-acab-bf5a030cea0b
-
-## Run Locally
-
-**Prerequisites:**  Node.js
 
 
 1. Install dependencies:
